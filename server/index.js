@@ -53,8 +53,8 @@ connectDb()
       if (err.code === 'EADDRINUSE') {
         console.error(
           `\nPort ${PORT} is already in use (another CitySpark server or app is running).\n` +
-            `  • Stop it:  netstat -ano | findstr :${PORT}   then   taskkill /PID <pid> /F\n` +
-            `  • Or use another port: set PORT=5001 in server/.env and update Vite proxy if needed.\n`
+          `  • Stop it:  netstat -ano | findstr :${PORT}   then   taskkill /PID <pid> /F\n` +
+          `  • Or use another port: set PORT=5001 in server/.env and update Vite proxy if needed.\n`
         );
         process.exit(1);
       }
