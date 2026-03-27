@@ -1,0 +1,111 @@
+# ============================================================
+# CitySpark - .gitignore
+# ============================================================
+# Keep this file to protect secrets and reduce repo clutter.
+# ✅  Safe to commit: .env.example, .env.example files
+# 🚫  Never commit:  .env, .env.local, node_modules, dist
+# ============================================================
+
+
+# ─── 🔐 ENVIRONMENT & SECRETS (MOST IMPORTANT!) ─────────────
+.env
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+.env.staging
+*.pem
+*.key
+*.cert
+*.p12
+secrets/
+config/secrets.*
+
+
+# ─── 📦 DEPENDENCIES ──────────────────────────────────────────
+node_modules/
+server/node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+
+# ─── 🏗️  BUILD OUTPUT ────────────────────────────────────────
+dist/
+dist-ssr/
+build/
+.output/
+out/
+*.local
+
+
+# ─── 📝 LOGS ─────────────────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+build_err.log
+dev_output.log
+lint_output.txt
+
+
+# ─── 🧪 TESTING & COVERAGE ───────────────────────────────────
+coverage/
+*.lcov
+.nyc_output/
+
+
+# ─── ⚡ VITE / TOOLING CACHE ─────────────────────────────────
+.vite/
+.cache/
+.parcel-cache/
+.turbo/
+.eslintcache
+.stylelintcache
+
+
+# ─── 🖥️  EDITOR & IDE FILES ──────────────────────────────────
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+.history/
+
+
+# ─── 💻 OPERATING SYSTEM FILES ───────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+
+# ─── 🗃️  DATABASE & BACKUPS ──────────────────────────────────
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+dump/
+backups/
+
+
+# ─── 📊 MISC GENERATED FILES ─────────────────────────────────
+*.tsbuildinfo
+.npm
+.yarn-integrity
+eslint_*.json
