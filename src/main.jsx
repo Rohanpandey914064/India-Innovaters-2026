@@ -7,6 +7,7 @@ import { ThemeProvider } from './context/ThemeContext'
 import { AuthProvider } from './context/AuthContext'
 import { AppProvider } from './context/AppContext'
 import { LanguageProvider } from './context/LanguageContext'
+import { Analytics } from '@vercel/analytics/react'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -15,6 +16,7 @@ createRoot(document.getElementById('root')).render(
         <AuthProvider>
           <AppProvider>
             <App />
+            <Analytics />
           </AppProvider>
         </AuthProvider>
       </LanguageProvider>
