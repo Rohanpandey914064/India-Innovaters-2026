@@ -1,4 +1,4 @@
-# ⚡ CitySpark — The Digital Twin for Your Smarter City
+#  CitySpark — The Digital Twin for Your Smarter City
 
 <div align="center">
 
@@ -16,16 +16,16 @@
 
 ---
 
-## 🌆 What is CitySpark?
+##  What is CitySpark?
 
 CitySpark is a full-stack civic-tech platform that acts as a **digital twin for city management**. It empowers citizens to:
 
-- 📍 **Report** potholes, broken streetlights, water leaks, and more
-- 🗳️ **Upvote / downvote** issues to surface the most urgent problems
-- 🗺️ **View** all reported issues on an interactive live map
-- 🤖 **Chat** with an AI Civic Assistant for guidance on government schemes & documents
-- 📊 **Track** resolution progress through a transparent dashboard
-- 🌐 **Switch** the entire UI to 9 Indian regional languages in real time
+-  **Report** potholes, broken streetlights, water leaks, and more
+-  **Upvote / downvote** issues to surface the most urgent problems
+-  **View** all reported issues on an interactive live map
+-  **Chat** with an AI Civic Assistant for guidance on government schemes & documents
+-  **Track** resolution progress through a transparent dashboard
+-  **Switch** the entire UI to 9 Indian regional languages in real time
 
 City officials get a powerful **Admin Dashboard** with:
 - Priority scoring & automatic department assignment
@@ -35,9 +35,9 @@ City officials get a powerful **Admin Dashboard** with:
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👥 For Citizens
+###  For Citizens
 | Feature | Description |
 |---|---|
 | **Issue Reporting** | Submit civic issues with title, description, category, geo-tagged location, and photo |
@@ -49,7 +49,7 @@ City officials get a powerful **Admin Dashboard** with:
 | **Multi-language UI** | Full app translation into Hindi, Bengali, Telugu, Marathi, Tamil, Gujarati, Kannada, Malayalam, Punjabi |
 | **Dark / Light Mode** | System-aware theme toggle with persistent preference |
 
-### 🏛️ For Administrators
+###  For Administrators
 | Feature | Description |
 |---|---|
 | **Admin Dashboard** | Full overview of all reported issues with filtering and analytics |
@@ -62,7 +62,7 @@ City officials get a powerful **Admin Dashboard** with:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 | Technology | Version | Purpose |
@@ -100,7 +100,7 @@ City officials get a powerful **Admin Dashboard** with:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
