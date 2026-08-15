@@ -186,7 +186,7 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 cityspark/
@@ -250,21 +250,21 @@ cityspark/
 
 ---
 
-## 🌐 Pages & Routes
+##  Pages & Routes
 
 | Route | Access | Description |
 |---|---|---|
 | `/` | Public | Landing page |
 | `/login` | Public | Sign in |
 | `/signup` | Public | Create account |
-| `/home` | 🔒 Auth | Citizen home |
-| `/feed` | 🔒 Auth | Community issue feed |
-| `/map` | 🔒 Auth | Interactive map view |
-| `/report` | 🔒 Auth | Report a new issue |
-| `/services` | 🔒 Auth | Government schemes |
-| `/assistant` | 🔒 Auth | AI Civic chatbot |
-| `/dashboard` | 🔒 Auth | Admin control panel |
-| `/profile` | 🔒 Auth | User profile |
+| `/home` |  Auth | Citizen home |
+| `/feed` | Auth | Community issue feed |
+| `/map` | Auth | Interactive map view |
+| `/report` |  Auth | Report a new issue |
+| `/services` |  Auth | Government schemes |
+| `/assistant` |  Auth | AI Civic chatbot |
+| `/dashboard` |  Auth | Admin control panel |
+| `/profile` |  Auth | User profile |
 | `/about` | Public | About CitySpark |
 | `/blog` | Public | Blog |
 | `/pricing` | Public | Pricing |
@@ -275,7 +275,7 @@ cityspark/
 
 ---
 
-## 📡 API Reference
+##  API Reference
 
 All API routes are prefixed with `/api`.
 
@@ -320,7 +320,7 @@ All API routes are prefixed with `/api`.
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 ### Frontend (`.env.local`)
 
@@ -344,7 +344,7 @@ All API routes are prefixed with `/api`.
 
 ---
 
-## 🌍 Multi-language Support
+##  Multi-language Support
 
 CitySpark supports **9 Indian regional languages** using a two-tier translation system:
 
@@ -367,7 +367,7 @@ Supported languages:
 
 ---
 
-## 🧠 AI Features
+##  AI Features
 
 ### AI Civic Assistant
 - Built on **Google Gemini** (`gemini-2.0-flash-lite` with fallback to `gemini-1.5-flash`)
@@ -385,7 +385,7 @@ Supported languages:
 
 ---
 
-## 📦 Available Scripts
+##  Available Scripts
 
 From the **project root**:
 
@@ -399,7 +399,7 @@ From the **project root**:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -419,15 +419,15 @@ This project follows [Conventional Commits](https://www.conventionalcommits.org/
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👥 Team
+##  Team
 
-Built with ❤️ for **India Innovators 2026**.
+Built with  for **India Innovators 2026**.
 
 ---
 
