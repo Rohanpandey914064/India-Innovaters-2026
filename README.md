@@ -422,9 +422,7 @@ This project follows [Conventional Commits](https://www.conventionalcommits.org/
 ##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 ---
-
 ##  Team
 
 Built with  for **India Innovators 2026**.
@@ -432,6 +430,6 @@ Built with  for **India Innovators 2026**.
 ---
 
 <div align="center">
-  <sub>⚡ CitySpark — Powering Smarter Cities, One Issue at a Time</sub>
+  <sub>CitySpark — Powering Smarter Cities, One Issue at a Time</sub>
 </div>
   t
