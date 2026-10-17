@@ -365,8 +365,6 @@ Supported languages:
 | Malayalam | `ml` | Malayalam |
 | Punjabi | `pa` | Gurmukhi |
 
----
-
 ##  AI Features
 
 ### AI Civic Assistant
