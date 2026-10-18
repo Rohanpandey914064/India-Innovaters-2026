@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 ##  What is CitySpark?
 
