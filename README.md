@@ -8,8 +8,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Report civic issues, navigate government services with AI, and build a better community together through predictive maintenance and transparent data.**
-
+**Report civic issues, navigate government services with AI, and build a better community together through predictive maintenance and transparent data
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Project Structure](#-project-structure) • [API Docs](#-api-reference) • [Environment Variables](#-environment-variables)
 
 </div>
